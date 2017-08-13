@@ -1,6 +1,6 @@
 # Inside the mind of a master procrastinator [Original Vedio Link](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator)
 
-> #### Aout The Talk
+> #### Aout The Talk:
 >Tim Urban, the speaker, knows that procrastination doesn't make sense, but he's never been able to shake his habit of waiting until the last minute to get things done. In this hilarious and insightful talk, Urban takes us on a journey through YouTube binges, Wikipedia rabbit holes and bouts of staring out the window -- and encourages us to think harder about what we're really procrastinating on, before we run out of time.
 
 ***
