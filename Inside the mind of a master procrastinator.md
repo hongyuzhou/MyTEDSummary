@@ -16,4 +16,4 @@ Tim Urban, the speaker, knows that procrastination doesn't make sense, but he's 
 >In this situation, the *Panic Monster* doesn't show up. And it's this long-term kind of procrastination that's much less visible and much less talked about than the funnier, short-term deadline-based kind. It's usually suffered quietly and privately. And it can be the source of a huge amount of long-term unhappiness, and regrets. It's that long-term procrastination has made them feel like a spectator, at times, in their own lives. The frustration is not that they couldn't achieve their dreams; it's that they weren't even able to start chasing them. 
 
 
-So, do it now. We need to stay aware of the *Instant Gratification Monkey*.
+So, we need to stay aware of the *Instant Gratification Monkey*. Do it now.
