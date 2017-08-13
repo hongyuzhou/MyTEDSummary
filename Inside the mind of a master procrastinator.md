@@ -1,7 +1,7 @@
-# Inside the mind of a master procrastinator [TED视频链接](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator)
+# Inside the mind of a master procrastinator [Original Vedio Link](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator)
 
 > #### Aout The Talk
-Tim Urban, the speaker, knows that procrastination doesn't make sense, but he's never been able to shake his habit of waiting until the last minute to get things done. In this hilarious and insightful talk, Urban takes us on a journey through YouTube binges, Wikipedia rabbit holes and bouts of staring out the window -- and encourages us to think harder about what we're really procrastinating on, before we run out of time.
+>Tim Urban, the speaker, knows that procrastination doesn't make sense, but he's never been able to shake his habit of waiting until the last minute to get things done. In this hilarious and insightful talk, Urban takes us on a journey through YouTube binges, Wikipedia rabbit holes and bouts of staring out the window -- and encourages us to think harder about what we're really procrastinating on, before we run out of time.
 
 ***
  There are exits **Rational Decision-Maker**, **Instant Gratification Monkey** in our brain. The *Monkey* ask *Decision-Maker* to do tings easy and fun rather than what should be done at right time. So, it will cause procrastination.
