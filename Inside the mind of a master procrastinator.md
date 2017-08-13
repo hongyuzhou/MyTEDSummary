@@ -1,4 +1,4 @@
-# Inside the mind of a master procrastinator [原文链接](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator)
+# Inside the mind of a master procrastinator [TED视频链接](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator)
 
 > #### Aout The Talk
 Tim Urban, the speaker, knows that procrastination doesn't make sense, but he's never been able to shake his habit of waiting until the last minute to get things done. In this hilarious and insightful talk, Urban takes us on a journey through YouTube binges, Wikipedia rabbit holes and bouts of staring out the window -- and encourages us to think harder about what we're really procrastinating on, before we run out of time.
@@ -16,4 +16,4 @@ Tim Urban, the speaker, knows that procrastination doesn't make sense, but he's 
 >In this situation, the *Panic Monster* doesn't show up. And it's this long-term kind of procrastination that's much less visible and much less talked about than the funnier, short-term deadline-based kind. It's usually suffered quietly and privately. And it can be the source of a huge amount of long-term unhappiness, and regrets. It's that long-term procrastination has made them feel like a spectator, at times, in their own lives. The frustration is not that they couldn't achieve their dreams; it's that they weren't even able to start chasing them. 
 
 
-So, do it now. We need to stay aware of the Instant Gratification Monkey.
+So, do it now. We need to stay aware of the *Instant Gratification Monkey*.
